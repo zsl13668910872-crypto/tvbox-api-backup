@@ -43,11 +43,11 @@
   },
 
   "apiDomains": [
-    { "tag": "备份线路", "base": "https://此处需站长更改自定义域名.com/tvbox/" }
+    { "tag": "备份线路", "base": "https://tvbox.richerzhang.ccwu.cc/tvbox/" }
   ],
 
   "liveDomains": [
-    { "tag": "备份线路", "base": "https://此处需站长更改自定义域名.com/tvbox/live/" }
+    { "tag": "备份线路", "base": "https://tvbox.richerzhang.ccwu.cc/tvbox/live/" }
   ],
 
   "apiWeights": {
