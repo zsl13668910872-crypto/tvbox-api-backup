@@ -2,50 +2,88 @@
 #EXTINF:-1 tvg-name="👖裤佬体育直播[备]",👖裤佬体育直播[备]
 #EXTM3U
 # 大米直播 - 实时全线路源
-# 北京时间: 2026/11/6 07:56:53
-# 当前直播场次: 20 场
+# 北京时间: 2026/11/7 00:50:14
+# 当前直播场次: 23 场
 
 #EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
 https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿甲" tvg-name="[06:15] 拉普拉塔体操 VS 贝尔格拉诺 (高清K)",[06:15] 拉普拉塔体操 VS 贝尔格拉诺 (高清K)
-https://hello.ooo0ooo.top/live/4539857.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿甲" tvg-name="[06:15] 拉普拉塔体操 VS 贝尔格拉诺 (高清B)",[06:15] 拉普拉塔体操 VS 贝尔格拉诺 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4539857.m3u8?txSecret=7da70acff4349d6037cc0223fc0c9c30&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 巴乌鲁 VS 米纳斯 (高清K)",[06:30] 巴乌鲁 VS 米纳斯 (高清K)
-https://hello.ooo0ooo.top/live/3939724.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 帕尔梅拉斯 VS 雷莫 (高清K)",[06:30] 帕尔梅拉斯 VS 雷莫 (高清K)
-https://hello.ooo0ooo.top/live/4465918.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 帕尔梅拉斯 VS 雷莫 (高清B)",[06:30] 帕尔梅拉斯 VS 雷莫 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4465918.m3u8?txSecret=b6d9504315ab3445c62d4f3ee0e78dda&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:00] 奥萨斯科 VS 圣荷塞 (高清K)",[07:00] 奥萨斯科 VS 圣荷塞 (高清K)
-https://hello.ooo0ooo.top/live/3939642.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:00] 奥萨斯科 VS 圣荷塞 (高清B)",[07:00] 奥萨斯科 VS 圣荷塞 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3939642.m3u8?txSecret=7346b8e465bc37070d9eb02c90e10a8a&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:00] 弗兰萨 VS 克鲁塞罗 (高清K)",[07:00] 弗兰萨 VS 克鲁塞罗 (高清K)
-https://hello.ooo0ooo.top/live/3939709.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:00] 弗兰萨 VS 克鲁塞罗 (高清B)",[07:00] 弗兰萨 VS 克鲁塞罗 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3939709.m3u8?txSecret=f7e7f97a3dbaf1b0464bc8b23f4962a1&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:30] 博塔弗戈SP VS 隆德里纳 (高清K)",[06:30] 博塔弗戈SP VS 隆德里纳 (高清K)
-https://hello.ooo0ooo.top/live/4494794.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:30] 博塔弗戈SP VS 隆德里纳 (高清B)",[06:30] 博塔弗戈SP VS 隆德里纳 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4494794.m3u8?txSecret=393d1860f00c0c377f068b637754b5a7&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="玻利杯" tvg-name="[07:00] 玻利瓦尔 VS 皇家波托斯 (高清K)",[07:00] 玻利瓦尔 VS 皇家波托斯 (高清K)
-https://hello.ooo0ooo.top/live/4656879.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="玻利杯" tvg-name="[07:00] 玻利瓦尔 VS 皇家波托斯 (高清B)",[07:00] 玻利瓦尔 VS 皇家波托斯 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4656879.m3u8?txSecret=ac162cfb3e45fbfc2fd1906773b8297f&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="哥斯甲" tvg-name="[07:00] 国际圣卡洛斯 VS 肯塔吉内斯 (高清K)",[07:00] 国际圣卡洛斯 VS 肯塔吉内斯 (高清K)
-https://hello.ooo0ooo.top/live/4554019.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="墨女超" tvg-name="[07:00] 内卡萨女足 VS 阿特拉斯女足 (高清K)",[07:00] 内卡萨女足 VS 阿特拉斯女足 (高清K)
-https://hello.ooo0ooo.top/live/4599525.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="墨女超" tvg-name="[07:00] 内卡萨女足 VS 阿特拉斯女足 (高清B)",[07:00] 内卡萨女足 VS 阿特拉斯女足 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4599525.m3u8?txSecret=81c359b2c15915bf7707c2a793f650e2&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 宾夕法尼亚州立大学 VS 查他努加大学 (高清K)",[07:00] 宾夕法尼亚州立大学 VS 查他努加大学 (高清K)
-https://hello.ooo0ooo.top/live/3948999.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 宾夕法尼亚州立大学 VS 查他努加大学 (高清B)",[07:00] 宾夕法尼亚州立大学 VS 查他努加大学 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3948999.m3u8?txSecret=eeda24a0bf609003e125dd20afb942c8&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 范德比尔特大学 VS 维克森林大学 (高清K)",[07:00] 范德比尔特大学 VS 维克森林大学 (高清K)
-https://hello.ooo0ooo.top/live/3950934.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 范德比尔特大学 VS 维克森林大学 (高清B)",[07:00] 范德比尔特大学 VS 维克森林大学 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3950934.m3u8?txSecret=718fe19a07da35af325e746e2d2d1774&txTime=6AEE6911
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:30] 西顿霍尔大学 VS 长岛大学 (高清K)",[07:30] 西顿霍尔大学 VS 长岛大学 (高清K)
-https://hello.ooo0ooo.top/live/3949001.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿根廷女子甲组联赛" tvg-name="[22:00] 飓风队 (女) VS 竞技俱乐部 (女) (高清K)",[22:00] 飓风队 (女) VS 竞技俱乐部 (女) (高清K)
+https://hello.ooo0ooo.top/live/4664981.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿塞超" tvg-name="[00:00] 尼菲治巴库 VS 卡帕兹PFK (高清K)",[00:00] 尼菲治巴库 VS 卡帕兹PFK (高清K)
+https://hello.ooo0ooo.top/live/4595641.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿塞超" tvg-name="[00:00] 尼菲治巴库 VS 卡帕兹PFK (高清B)",[00:00] 尼菲治巴库 VS 卡帕兹PFK (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4595641.m3u8?txSecret=9e95fe703a4771512ff1983d5ecb5281&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="埃及杯" tvg-name="[23:00] 恩比 VS 普斯SC (高清K)",[23:00] 恩比 VS 普斯SC (高清K)
+https://hello.ooo0ooo.top/live/4664036.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="埃及杯" tvg-name="[23:00] 恩比 VS 普斯SC (高清B)",[23:00] 恩比 VS 普斯SC (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4664036.m3u8?txSecret=366d4f1c500f55b18414c4052f95fc46&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="白俄超" tvg-name="[23:00] 戈梅利 VS 捷尔任斯克兵工厂 (高清K)",[23:00] 戈梅利 VS 捷尔任斯克兵工厂 (高清K)
+https://hello.ooo0ooo.top/live/4502969.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="白俄超" tvg-name="[23:00] 戈梅利 VS 捷尔任斯克兵工厂 (高清B)",[23:00] 戈梅利 VS 捷尔任斯克兵工厂 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4502969.m3u8?txSecret=4828b9e5c59bf5c59e6aeb2deb0d9509&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="保甲" tvg-name="[23:00] 索菲亚塞普泰姆夫里 VS 索菲亚火车头 (高清K)",[23:00] 索菲亚塞普泰姆夫里 VS 索菲亚火车头 (高清K)
+https://hello.ooo0ooo.top/live/4554137.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="保甲" tvg-name="[23:00] 索菲亚塞普泰姆夫里 VS 索菲亚火车头 (高清B)",[23:00] 索菲亚塞普泰姆夫里 VS 索菲亚火车头 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4554137.m3u8?txSecret=a3d0d39d70ad4987c24ba56ec2aa1b01&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="波兰甲" tvg-name="[01:00] 莫托路宾 VS 普沃茨克 (高清K)",[01:00] 莫托路宾 VS 普沃茨克 (高清K)
+https://hello.ooo0ooo.top/live/4559368.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="波兰甲" tvg-name="[01:00] 莫托路宾 VS 普沃茨克 (高清B)",[01:00] 莫托路宾 VS 普沃茨克 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4559368.m3u8?txSecret=01b0955007ea0d521ff35ce5fc726bbe&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="波兰甲级联赛" tvg-name="[01:00] 涅波沃米采 VS 马特斯 (高清K)",[01:00] 涅波沃米采 VS 马特斯 (高清K)
+https://hello.ooo0ooo.top/live/4560372.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="波兰甲级联赛" tvg-name="[01:00] 涅波沃米采 VS 马特斯 (高清B)",[01:00] 涅波沃米采 VS 马特斯 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4560372.m3u8?txSecret=664a3c09c0fb7464a485adbf0d5008f4&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="丹麦甲" tvg-name="[01:00] 瓦埃勒 VS 弗雷德里西亚 (高清K)",[01:00] 瓦埃勒 VS 弗雷德里西亚 (高清K)
+https://hello.ooo0ooo.top/live/4553524.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="丹麦甲" tvg-name="[01:00] 瓦埃勒 VS 弗雷德里西亚 (高清B)",[01:00] 瓦埃勒 VS 弗雷德里西亚 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4553524.m3u8?txSecret=57f7251ed22f0f227fe258b23da2213f&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="俄超" tvg-name="[00:30] 莫斯科火车头 VS 喀山红宝石 (高清K)",[00:30] 莫斯科火车头 VS 喀山红宝石 (高清K)
+https://hello.ooo0ooo.top/live/4564158.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="俄超" tvg-name="[00:30] 莫斯科火车头 VS 喀山红宝石 (高清B)",[00:30] 莫斯科火车头 VS 喀山红宝石 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4564158.m3u8?txSecret=322f3f18b5bf15f218f35807ea5b08fe&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="俄青联" tvg-name="[00:00] 圣彼得堡泽尼特青年队 VS 法克尔青年队 (高清K)",[00:00] 圣彼得堡泽尼特青年队 VS 法克尔青年队 (高清K)
+https://hello.ooo0ooo.top/live/4506660.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="卡塔尔联" tvg-name="[00:30] 沃克拉 VS 沙哈尼亚 (高清K)",[00:30] 沃克拉 VS 沙哈尼亚 (高清K)
+https://hello.ooo0ooo.top/live/4591262.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="卡塔尔联" tvg-name="[00:30] 沃克拉 VS 沙哈尼亚 (高清B)",[00:30] 沃克拉 VS 沙哈尼亚 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4591262.m3u8?txSecret=bd348aa30c8bb13a1a0e7b3a24dc38e1&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="克亚甲" tvg-name="[01:00] 萨格勒布火车头 VS 鲁达士 (高清K)",[01:00] 萨格勒布火车头 VS 鲁达士 (高清K)
+https://hello.ooo0ooo.top/live/4552972.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="克亚甲" tvg-name="[01:00] 萨格勒布火车头 VS 鲁达士 (高清B)",[01:00] 萨格勒布火车头 VS 鲁达士 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4552972.m3u8?txSecret=f15d85ab4a10db41c03a8966cc1c3456&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="罗甲" tvg-name="[23:30] UTA阿拉德 VS 佩特罗鲁 (高清K)",[23:30] UTA阿拉德 VS 佩特罗鲁 (高清K)
+https://hello.ooo0ooo.top/live/4567792.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="罗甲" tvg-name="[23:30] UTA阿拉德 VS 佩特罗鲁 (高清B)",[23:30] UTA阿拉德 VS 佩特罗鲁 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4567792.m3u8?txSecret=190826316446db7b72166b653c6204fa&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="罗篮甲" tvg-name="[00:00] 加拉茨市政体育 VS 布加勒斯特星 (高清K)",[00:00] 加拉茨市政体育 VS 布加勒斯特星 (高清K)
+https://hello.ooo0ooo.top/live/3944295.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="罗篮甲" tvg-name="[00:00] 加拉茨市政体育 VS 布加勒斯特星 (高清B)",[00:00] 加拉茨市政体育 VS 布加勒斯特星 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3944295.m3u8?txSecret=9554b59a347aa3ff3cb60aaf1afdd653&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧篮联" tvg-name="[01:00] 贝西克塔斯 VS 萨拉基利斯 (高清K)",[01:00] 贝西克塔斯 VS 萨拉基利斯 (高清K)
+https://hello.ooo0ooo.top/live/3926620.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧篮联" tvg-name="[01:00] 贝西克塔斯 VS 萨拉基利斯 (高清B)",[01:00] 贝西克塔斯 VS 萨拉基利斯 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3926620.m3u8?txSecret=50059277db3aed86cf3b79219fd085d2&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="斯亚甲" tvg-name="[00:30] 伦达瓦 VS 卢布尔雅那奥林匹亚 (高清K)",[00:30] 伦达瓦 VS 卢布尔雅那奥林匹亚 (高清K)
+https://hello.ooo0ooo.top/live/4560974.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="斯亚甲" tvg-name="[00:30] 伦达瓦 VS 卢布尔雅那奥林匹亚 (高清B)",[00:30] 伦达瓦 VS 卢布尔雅那奥林匹亚 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4560974.m3u8?txSecret=e939d5697dd38766798ecf8b6ca0a219&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="土超" tvg-name="[01:00] 加济安泰普 VS 卡斯帕萨 (高清K)",[01:00] 加济安泰普 VS 卡斯帕萨 (高清K)
+https://hello.ooo0ooo.top/live/4581364.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="土超" tvg-name="[01:00] 加济安泰普 VS 卡斯帕萨 (高清B)",[01:00] 加济安泰普 VS 卡斯帕萨 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4581364.m3u8?txSecret=3a5ee9738c7d4ab40ffe47110d8fe0d8&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="土甲" tvg-name="[01:00] 安塔利亚 VS 布尔萨体育 (高清K)",[01:00] 安塔利亚 VS 布尔萨体育 (高清K)
+https://hello.ooo0ooo.top/live/4583616.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="土甲" tvg-name="[01:00] 安塔利亚 VS 布尔萨体育 (高清B)",[01:00] 安塔利亚 VS 布尔萨体育 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4583616.m3u8?txSecret=44899018129058f8f8e6485d35e7f30f&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="土甲" tvg-name="[01:00] 萨热耶尔 VS 厄德尔 (高清K)",[01:00] 萨热耶尔 VS 厄德尔 (高清K)
+https://hello.ooo0ooo.top/live/4583623.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="亚美超" tvg-name="[23:00] BKMA VS 艾拉斯克特 (高清K)",[23:00] BKMA VS 艾拉斯克特 (高清K)
+https://hello.ooo0ooo.top/live/4578950.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="亚美超" tvg-name="[23:00] BKMA VS 艾拉斯克特 (高清B)",[23:00] BKMA VS 艾拉斯克特 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4578950.m3u8?txSecret=a61805d96a44f8c7638ceaa2a3183e34&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="约超联" tvg-name="[00:30] 巴卡 VS 安曼团结 (高清K)",[00:30] 巴卡 VS 安曼团结 (高清K)
+https://hello.ooo0ooo.top/live/4654235.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="约超联" tvg-name="[00:30] 巴卡 VS 安曼团结 (高清B)",[00:30] 巴卡 VS 安曼团结 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4654235.m3u8?txSecret=e78f2bc723d7c0d34d0f52d9506d9f8d&txTime=6AEF5641
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="VTB" tvg-name="[23:00] 萨拉托夫汽车 VS 喀山尤尼克斯 (高清K)",[23:00] 萨拉托夫汽车 VS 喀山尤尼克斯 (高清K)
+https://hello.ooo0ooo.top/live/3936420.m3u8
